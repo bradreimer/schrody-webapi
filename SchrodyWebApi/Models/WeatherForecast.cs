@@ -1,6 +1,6 @@
 using System;
 
-namespace SchrodyWebApi
+namespace SchrodyWebApi.Models
 {
 	public class WeatherForecast
 	{
