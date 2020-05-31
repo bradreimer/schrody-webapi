@@ -1,3 +1,3 @@
-# Brad Reimer
+# Schrody Web API
 
-Source for the website https://www.bradreimer.ca
+REST API for the website https://bradreimer.ca
