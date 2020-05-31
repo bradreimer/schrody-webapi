@@ -1,0 +1,8 @@
+# Generated Code
+bin/
+obj/
+*.suo
+*.user
+
+# VSCode Configuration
+.vs/

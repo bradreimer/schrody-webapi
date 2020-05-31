@@ -1,0 +1,30 @@
+# https://EditorConfig.org
+
+# This is the top-most editorconfig file
+root = true
+
+# All files
+[*]
+charset = utf-8
+indent_style = tab
+indent_size = 4
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# C# source
+[*.cs]
+csharp_new_line_before_open_brace = all
+
+# Web Pages
+[*.{html,css,razor}]
+indent_style = space
+indent_size = 4
+
+# Build files and structured data
+[*.{csproj,build,js,json}]
+indent_style = space
+indent_size = 2
+
+# Markdown
+[*.md]
+trim_trailing_whitespace = false
